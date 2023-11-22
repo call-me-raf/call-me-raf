@@ -4,7 +4,6 @@
 mindmap
   root((Me))
     (Tech Stack)
-    ::icon(fa fa-terminal)
       [.NET]
         [Versions]
             [6.0-8.0, 3.0, .NET Framework]
@@ -44,18 +43,15 @@ mindmap
             [PgAdmin]
             [Oracle Bi Publisher]
     (Methodologies)
-    ::icon(fa fa-arrows-split-up-and-left)
       [Agile]
       [Scrum]
       [SAFe]
       [GitFlow]
     (API)
-    ::icon(fa fa-code)
         [REST]
         [GRPC]
         [SOAP]
     (Tools)
-    ::icon(fa fa-screwdriver-wrench)
         [CI/CD]
             [Docker]
             [TeamCity]
